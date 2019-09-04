@@ -12,3 +12,5 @@ Instructions to run the code:
 -	Since we are only storing the images to the Firebase, we do not need any dedicated link to it in the instructions. The code takes care of that. 
 
 Project Demo: https://www.youtube.com/watch?v=l_jtVnHJdWY
+
+View Firebase storage (only accessible by all TAs who have accepted the invitation sent from us): https://console.firebase.google.com/project/first-programming-assign-527f5/storage/first-programming-assign-527f5.appspot.com/files~2Fuploads~2F
