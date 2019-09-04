@@ -1,5 +1,5 @@
 # MAS-Fall-19-ATL---First-Programming-Assignment-
-This repository will be used by Het Piyush Sheth and Jenita Lydia Jebasingh as a mode of communication and to keep track of the work in MAS - First Programming Assignemtn 
+This repository will be used by Het Piyush Sheth and Jenita Lydia Jebasingh as a mode of communication and to keep track of the work in MAS - First Programming Assignment. 
 
 
 Instructions to run the code:
@@ -10,3 +10,5 @@ Instructions to run the code:
 -	Once the build is successful, Run the project. Make sure an Android Device (which has USB Debugging turned on) is connected to the machine with a physical USB wire. 
 -	Once the application runs on the phone, then you’re all set. Choose any image, and upload. 
 -	Since we are only storing the images to the Firebase, we do not need any dedicated link to it in the instructions. The code takes care of that. 
+
+Project Demo: https://www.youtube.com/watch?v=l_jtVnHJdWY
